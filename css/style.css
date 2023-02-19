@@ -108,6 +108,7 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
+  font-family: 'EB Garamond', serif;
 }
 
 .source {
@@ -175,6 +176,7 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  font-style: "Helvetica" bold;
 }
 
 h2 {
